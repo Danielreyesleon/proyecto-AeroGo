@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="AeroGo-impl" basedir="..">
+    <property file="nbproject/private/private.properties"/>
+    <property file="nbproject/project.properties"/>
+    <target name="-pre-init"/>
+    <target name="-init-private"/>
+    <target name="-init-user"/>
+    <target name="-init-project"/>
+    <target name="-do-init"/>
+    <target name="-post-init"/>
+    <target name="-init-check"/>
+    <target name="-init-macrodef-property"/>
+    <target name="-init-macrodef-javac"/>
+    <target name="-init-macrodef-junit"/>
+    <target name="-init-macrodef-junit-debug"/>
+    <target name="-init-macrodef-nbjpda"/>
+    <target name="-init-macrodef-debug"/>
+    <target name="-init-macrodef-java"/>
+    <target name="-init-presetdef-jar"/>
+    <target name="-init-ap-cmdline"/>
+</project>
