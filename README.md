@@ -43,3 +43,11 @@ AeroGO/
                 ├── Ventas.java              # Proceso de compra y ocupación
                 ├── VentanaPrincipal.java    # Interfaz gráfica principal (Swing)
                 └── Vuelo.java               # Gestión de información del vuelo
+
+
+git clone [https://github.com/Danielreyesleon/AeroGO.git](https://github.com/Danielreyesleon/AeroGO.git)
+cd AeroGO
+
+javac src/aerolinea/global/java/*.java -d bin
+
+java -cp bin aerolinea.global.java.Main
